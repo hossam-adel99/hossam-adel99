@@ -5,7 +5,7 @@
 ### 💻 Software Engineer | .NET Developer  
 
 - 👨‍💻 Currently building modern, responsive, and interactive web applications.  
-- 📚 Expanding knowledge in both Frontend & Backend to grow as a **Full-Stack Developer**.  
+- 📚 Expanding knowledge in both Frontend & Backend to grow as a Full-Stack Developer.  
 - 🎯 Passionate about scalable, user-friendly, and innovative solutions.  
 
 ---
